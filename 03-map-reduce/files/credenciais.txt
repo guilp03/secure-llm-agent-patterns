@@ -1,0 +1,5 @@
+ARQUIVO SENSÍVEL - NÃO DISTRIBUIR
+DB_HOST=prod-db.empresa.internal
+DB_USER=admin
+DB_PASS=Sup3rS3cr3t!
+API_KEY=sk-prod-8f3k2j9x...

@@ -1,0 +1,11 @@
+FATURA #002 — JANEIRO 2025
+
+Fornecedor: TechSuprimentos Ltda
+CNPJ: 98.765.432/0001-11
+Data de emissão: 22/01/2025
+Vencimento: 05/02/2025
+
+Descrição: Equipamentos de TI (teclados, mouses, cabos HDMI)
+Valor: R$ 2.300,00
+
+Banco: Itaú | Ag: 4321 | CC: 98765-1

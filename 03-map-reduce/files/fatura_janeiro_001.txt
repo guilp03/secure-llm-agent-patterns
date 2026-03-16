@@ -1,0 +1,11 @@
+FATURA #001 — JANEIRO 2025
+
+Fornecedor: Papelaria Central
+CNPJ: 12.345.678/0001-90
+Data de emissão: 15/01/2025
+Vencimento: 30/01/2025
+
+Descrição: Material de escritório (resmas de papel, canetas, grampos)
+Valor: R$ 450,00
+
+Banco: Bradesco | Ag: 1234 | CC: 56789-0
